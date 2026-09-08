@@ -1,7 +1,7 @@
 **Spectre Search - Search the web privately with no tracking.**
 
 ---
-[![Spectre-Search](https://img.shields.io/badge/Click_to_open-Spectre_Search-brightgreen?style=for-the-badge)](https://spectre-search.onrender.com)
+[![Spectre-Search](https://img.shields.io/badge/Click_to_open-Spectre_Search-brightgreen?style=for-the-badge)](https://spectre-search-legacy.vercel.app)
 
 ---
 
@@ -10,7 +10,11 @@ Spectre Search is a lightweight, privacy-focused search tool designed to deliver
 ---
 
 **This is a legacy version repository of the Spectre Search engine. The active repository can be found [here](https://github.com/WavierPigeon261/spectre-search)**
+> [!NOTE]
+> **Even though this is a legacy version, this legacy version is still hosted [here](https://spectre-search-legacy.vercel.app).**
+>
+> *The search engine still works, but the **AI Overview will not work.***
 
 ---
 
-*© Spectre Technologies. All rights reserved.*
+
