@@ -9,7 +9,7 @@ Spectre Search is a lightweight, privacy-focused search tool designed to deliver
 
 ---
 
-**This is a legacy version repository of the Spectre Search engine. The active repository can be found [here](https://github.com/WavierPigeon261/spectre-search)**
+**This is a legacy and an archived version repository of the Spectre Search engine. The active repository can be found [here](https://github.com/WavierPigeon261/spectre-search)**
 > [!NOTE]
 > **Even though this is a legacy version, this legacy version is still hosted [here](https://spectre-search-legacy.vercel.app).**
 >
